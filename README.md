@@ -10,7 +10,7 @@ This repository hosts the analytical template and code accompanying our research
 
 # Contact
 **Corresponding Author**: MUHAMMAD ABID KHAN
-**Email**: 
+**Email**: rabid609@gmail.com
 **Institution**: Center for Environmental Remote Sensing (CEReS), Chiba University, Japan. 
 
 # Development Status: Associated with a Manuscript in Review
