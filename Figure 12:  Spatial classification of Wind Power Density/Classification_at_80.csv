@@ -1,0 +1,62 @@
+﻿ID,Station Name,Latitude,Longitude,WPD80m,Classification
+1,ASTOR                ,35.357,74.8624,208.5,Poor
+2,BADIN                ,24.6459,68.8467,831.1,Outstanding
+3,BAHAWALNAGAR         ,29.9994,73.255,144.8,Poor
+4,BAHAWALPUR           ,29.3544,71.6911,33.2,Poor
+5,BALAKOT              ,34.5482,73.3532,13.9,Poor
+6,BARKHAN              ,29.8995,69.5246,205.1,Poor
+7,BUNJI                ,35.6431,74.6342,47.1,Poor
+8,CHERAT               ,33.8215,71.8883,446.4,Moderate
+9,CHHOR                ,25.5114,69.7823,508.8,Good
+10,CHILAS               ,35.4222,74.0946,78.6,Poor
+11,CHITRAL              ,35.7699,71.7741,1098,Superb
+12,DALBANDIN            ,28.8854,64.3964,201.2,Poor
+13,DERA ISMAIL KHAN     ,31.8626,70.9019,39.8,Poor
+14,DIR                  ,35.1977,71.8749,37,Poor
+15,DROSH                ,35.5684,71.8038,323.9,Marginal
+16,FAISALABAD(LYALLPUR) ,31.4504,73.135,25.6,Poor
+17,GARHI DUPATTA        ,34.2264,73.6157,21.8,Poor
+18,GILGIT               ,35.9202,74.308,25.1,Poor
+19,GUPIS                ,36.2274,73.4421,67.7,Poor
+20,HYDERABAD            ,25.396,68.3578,948.5,Outstanding
+21,ISLAMABAD            ,33.6844,73.0479,256.8,Marginal
+22,JACOBABAD            ,28.2437,68.3816,127.1,Poor
+23,JHELUM               ,32.9425,73.7257,19.7,Poor
+24,JIWANI               ,25.0538,61.7707,1176.3,Superb
+25,KAKUL                ,34.1875,73.2618,22.9,Poor
+26,KALAT                ,29.0523,66.5879,143.9,Poor
+27,KARACHI (AIRPORT)    ,24.9008,67.1681,796,Outstanding
+28,KARACHI (MASROOR)    ,24.8936,66.9388,3190.7,Superb
+29,KHANPUR (PBO)        ,28.6459,70.656,43.9,Poor
+30,KHUZDAR              ,27.8165,66.6057,438.7,Moderate
+31,KOHAT                ,33.5889,71.4429,165.3,Poor
+32,KOTLI                ,33.5008,73.9007,39.9,Poor
+33,LAHORE(AIRPORT)      ,31.5203,74.4104,284.1,Marginal
+34,LAHORE(PBO)          ,31.5216,74.4036,33.5,Poor
+35,LARKANA              ,27.557,68.2028,94.9,Poor
+36,LASBELLA             ,25.87,66.7129,186.8,Poor
+37,MIANWALI             ,32.5839,71.537,163.2,Poor
+38,MOEN-JO-DARO         ,27.3287,68.1372,156.3,Poor
+39,MULTAN(PBO)          ,30.181459,71.492157,58.6,Poor
+40,MURREE               ,33.907,73.3943,45.8,Poor
+41,MUZAFFARABAD         ,34.3551,73.4769,12.2,Poor
+42,NAWABSHAH            ,26.2447,68.3935,366.3,Marginal
+43,NOKKUNDI             ,28.8259,62.75,1401.7,Superb
+44,ORMARA               ,25.2666,64.6096,1396.9,Superb
+45,PADIDAN              ,26.7724,68.2922,67.9,Poor
+46,PANJGUR              ,26.9706,64.0887,426.2,Moderate
+47,PARACHINAR           ,33.9011,70.086,101.5,Poor
+48,PASNI                ,25.251,63.4154,1842.5,Superb
+49,PESHAWAR             ,34.0151,71.5249,109.8,Poor
+50,QUETTA               ,30.1798,66.975,2051.5,Superb
+51,RAFIQUE(PAF)         ,30.7553,72.2803,236.8,Poor
+52,RISALPUR             ,34.0751,71.9876,236.1,Poor
+53,ROHRI                ,27.6687,68.8943,88.3,Poor
+54,SAIDU SHARIF         ,34.7492,72.3563,9,Poor
+55,SARGODHA             ,32.074,72.6861,155.9,Poor
+56,SHARA-E-FAISAL       ,24.861027,67.069544,1956.1,Superb
+57,SIALKOT              ,32.4945,74.5229,12.7,Poor
+58,SIBBI                ,29.5532,67.8808,87.4,Poor
+59,SKARDU(PBO)          ,35.3275,75.5489,57.7,Poor
+60,TURBAT               ,26.0081,63.0383,2327.9,Superb
+61,ZHOB(PBO)            ,31.3497,69.4482,159,Poor
