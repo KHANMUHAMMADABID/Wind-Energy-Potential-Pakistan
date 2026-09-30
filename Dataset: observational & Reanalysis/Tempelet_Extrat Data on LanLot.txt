@@ -1,0 +1,854 @@
+#_1
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "1-ERA5;ASTOR;Latitude_35.357;Longitude_74.8624;Pakistan.csv",
+         lon1 = 74.8624,
+         lat1 = 35.357,
+         format = "csv")
+
+###########################################################################################################
+#_2
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "2-ERA5;BADIN;Latitude_24.6459;Longitude_68.8467;Pakistan.csv",
+         lon1 = 68.8467,
+         lat1 = 24.6459,
+         format = "csv")
+
+###########################################################################################################
+#_3
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "3-ERA5;BAHAWALNAGAR;Latitude_29.9994;Longitude_73.255;Pakistan.csv",
+         lon1 = 73.255,
+         lat1 = 29.9994,
+         format = "csv")
+
+###########################################################################################################
+#_4
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "4-ERA5;BAHAWALPUR;Latitude_29.3544;Longitude_71.6911;Pakistan.csv",
+         lon1 = 71.6911,
+         lat1 = 29.3544,
+         format = "csv")
+
+###########################################################################################################
+#_5
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "5-ERA5;BALAKOT;Latitude_34.5482;Longitude_73.3532;Pakistan.csv",
+         lon1 = 73.3532,
+         lat1 = 34.5482,
+         format = "csv")
+
+###########################################################################################################
+#_6
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "6-ERA5;BARKHAN;Latitude_29.8995;Longitude_69.5246;Pakistan.csv",
+         lon1 = 69.5246,
+         lat1 = 29.8995,
+         format = "csv")
+
+###########################################################################################################
+#_7
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "7-ERA5;BUNJI;Latitude_35.6431;Longitude_74.6342;Pakistan.csv",
+         lon1 = 74.6342,
+         lat1 = 35.6431,
+         format = "csv")
+
+###########################################################################################################
+#_8
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "8-ERA5;CHERAT;Latitude_33.8215;Longitude_71.8883;Pakistan.csv",
+         lon1 = 71.8883,
+         lat1 = 33.8215,
+         format = "csv")
+
+###########################################################################################################
+#_9
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "9-ERA5;CHHOR;Latitude_25.5114;Longitude_69.7823;Pakistan.csv",
+         lon1 = 69.7823,
+         lat1 = 25.5114,
+         format = "csv")
+
+###########################################################################################################
+#_10
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "10-ERA5;CHILAS;Latitude_35.4222;Longitude_74.0946;Pakistan.csv",
+         lon1 = 74.0946,
+         lat1 = 35.4222,
+         format = "csv")
+
+###########################################################################################################
+#_11
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "11-ERA5;CHITRAL;Latitude_35.7699;Longitude_71.7741;Pakistan.csv",
+         lon1 = 71.7741,
+         lat1 = 35.7699,
+         format = "csv")
+
+###########################################################################################################
+#_12
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "12-ERA5;DALBANDIN;Latitude_28.8854;Longitude_64.3964;Pakistan.csv",
+         lon1 = 64.3964,
+         lat1 = 28.8854,
+         format = "csv")
+
+###########################################################################################################
+#_13
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "13-ERA5;DERA-ISMAIL-KHAN;Latitude_31.8626;Longitude_70.9019;Pakistan.csv",
+         lon1 = 70.9019,
+         lat1 = 31.8626,
+         format = "csv")
+
+###########################################################################################################
+#_14
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "14-ERA5;DIR;Latitude_35.1977;Longitude_71.8749;Pakistan.csv",
+         lon1 = 71.8749,
+         lat1 = 35.1977,
+         format = "csv")
+
+###########################################################################################################
+#_15
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "15-ERA5;DROSH;Latitude_35.5684;Longitude_71.8038;Pakistan.csv",
+         lon1 = 71.8038,
+         lat1 = 35.5684,
+         format = "csv")
+
+###########################################################################################################
+#_16
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "16-ERA5;FAISALABAD_LYALLPUR;Latitude_31.4504;Longitude_73.135;Pakistan.csv",
+         lon1 = 73.135,
+         lat1 = 31.4504,
+         format = "csv")
+
+###########################################################################################################
+#_17
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "17-ERA5;GARHI-DUPATTA;Latitude_34.2264;Longitude_73.6157;Pakistan.csv",
+         lon1 = 73.6157,
+         lat1 = 34.2264,
+         format = "csv")
+
+###########################################################################################################
+#_18
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "18-ERA5;GILGIT;Latitude_35.9202;Longitude_74.308;Pakistan.csv",
+         lon1 = 74.308,
+         lat1 = 35.9202,
+         format = "csv")
+
+###########################################################################################################
+#_19
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "19-ERA5;GUPIS;Latitude_36.2274;Longitude_73.4421;Pakistan.csv",
+         lon1 = 73.4421,
+         lat1 = 36.2274,
+         format = "csv")
+
+###########################################################################################################
+#_20
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "20-ERA5;HYDERABAD;Latitude_25.396;Longitude_68.3578;Pakistan.csv",
+         lon1 = 68.3578,
+         lat1 = 25.396,
+         format = "csv")
+
+###########################################################################################################
+#_21
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "21-ERA5;ISLAMABAD;Latitude_33.6844;Longitude_73.0479;Pakistan.csv",
+         lon1 = 73.0479,
+         lat1 = 33.6844,
+         format = "csv")
+
+###########################################################################################################
+#_22
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "22-ERA5;JACOBABAD;Latitude_28.2437;Longitude_68.3816;Pakistan.csv",
+         lon1 = 68.3816,
+         lat1 = 28.2437,
+         format = "csv")
+
+###########################################################################################################
+#_23
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "23-ERA5;JHELUM;Latitude_32.9425;Longitude_73.7257;Pakistan.csv",
+         lon1 = 73.7257,
+         lat1 = 32.9425,
+         format = "csv")
+
+###########################################################################################################
+#_24
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "24-ERA5;JIWANI;Latitude_25.0538;Longitude_61.7707;Pakistan.csv",
+         lon1 = 61.7707,
+         lat1 = 25.0538,
+         format = "csv")
+
+###########################################################################################################
+#_25
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "25-ERA5;KAKUL;Latitude_34.1875;Longitude_73.2618;Pakistan.csv",
+         lon1 = 73.2618,
+         lat1 = 34.1875,
+         format = "csv")
+
+###########################################################################################################
+#_26
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "26-ERA5;KALAT;Latitude_29.0523;Longitude_66.5879;Pakistan.csv",
+         lon1 = 66.5879,
+         lat1 = 29.0523,
+         format = "csv")
+
+###########################################################################################################
+#_27
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "27-ERA5;KARACHI_AIRPORT;Latitude_24.9008;Longitude_67.1681;Pakistan.csv",
+         lon1 = 67.1681,
+         lat1 = 24.9008,
+         format = "csv")
+
+###########################################################################################################
+#_28
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "28-ERA5;KARACHI_MASROOR;Latitude_24.8936;Longitude_66.9388;Pakistan.csv",
+         lon1 = 66.9388,
+         lat1 = 24.8936,
+         format = "csv")
+
+###########################################################################################################
+#_29
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "29-ERA5;KHANPUR_PBO;Latitude_28.6459;Longitude_70.656;Pakistan.csv",
+         lon1 = 70.656,
+         lat1 = 28.6459,
+         format = "csv")
+
+###########################################################################################################
+#_30
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "30-ERA5;KHUZDAR;Latitude_27.8165;Longitude_66.6057;Pakistan.csv",
+         lon1 = 66.6057,
+         lat1 = 27.8165,
+         format = "csv")
+
+###########################################################################################################
+#_31
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "31-ERA5;KOHAT;Latitude_33.5889;Longitude_71.4429;Pakistan.csv",
+         lon1 = 71.4429,
+         lat1 = 33.5889,
+         format = "csv")
+
+###########################################################################################################
+#_32
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "32-ERA5;KOTLI;Latitude_33.5008;Longitude_73.9007;Pakistan.csv",
+         lon1 = 73.9007,
+         lat1 = 33.5008,
+         format = "csv")
+
+###########################################################################################################
+#_33
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "33-ERA5;LAHORE_AIRPORT;Latitude_31.5203;Longitude_74.4104;Pakistan.csv",
+         lon1 = 74.4104,
+         lat1 = 31.5203,
+         format = "csv")
+
+###########################################################################################################
+#_34
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "34-ERA5;LAHORE_PBO;Latitude_31.5216;Longitude_74.4036;Pakistan.csv",
+         lon1 = 74.4036,
+         lat1 = 31.5216,
+         format = "csv")
+
+###########################################################################################################
+#_35
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "35-ERA5;LARKANA;Latitude_27.557;Longitude_68.2028;Pakistan.csv",
+         lon1 = 68.2028,
+         lat1 = 27.557,
+         format = "csv")
+
+###########################################################################################################
+#_36
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "36-ERA5;LASBELLA;Latitude_25.87;Longitude_66.7129;Pakistan.csv",
+         lon1 = 66.7129,
+         lat1 = 25.87,
+         format = "csv")
+
+###########################################################################################################
+#_37
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "37-ERA5;MIANWALI;Latitude_32.5839;Longitude_71.537;Pakistan.csv",
+         lon1 = 71.537,
+         lat1 = 32.5839,
+         format = "csv")
+
+###########################################################################################################
+#_38
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "38-ERA5;MOEN-JO-DARO;Latitude_27.3287;Longitude_68.1372;Pakistan.csv",
+         lon1 = 68.1372,
+         lat1 = 27.3287,
+         format = "csv")
+
+###########################################################################################################
+#_39
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "39-ERA5;MULTAN_PBO;Latitude_30.181459;Longitude_71.492157;Pakistan.csv",
+         lon1 = 71.492157,
+         lat1 = 30.181459,
+         format = "csv")
+
+###########################################################################################################
+#_40
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "40-ERA5;MURREE;Latitude_33.907;Longitude_73.3943;Pakistan.csv",
+         lon1 = 73.3943,
+         lat1 = 33.907,
+         format = "csv")
+
+###########################################################################################################
+#_41
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "41-ERA5;MUZAFFARABAD;Latitude_34.3551;Longitude_73.4769;Pakistan.csv",
+         lon1 = 73.4769,
+         lat1 = 34.3551,
+         format = "csv")
+
+###########################################################################################################
+#_42
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "42-ERA5;NAWABSHAH;Latitude_26.2447;Longitude_68.3935;Pakistan.csv",
+         lon1 = 68.3935,
+         lat1 = 26.2447,
+         format = "csv")
+
+###########################################################################################################
+#_43
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "43-ERA5;NOKKUNDI;Latitude_28.8259;Longitude_28.8259;Pakistan.csv",
+         lon1 = 62.7500,
+         lat1 = 28.8259,
+         format = "csv")
+
+###########################################################################################################
+#_44
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "44-ERA5;ORMARA;Latitude_25.2666;Longitude_64.6096;Pakistan.csv",
+         lon1 = 64.6096,
+         lat1 = 25.2666,
+         format = "csv")
+
+###########################################################################################################
+#_45
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "45-ERA5;PADIDAN;Latitude_26.7724;Longitude_68.2922;Pakistan.csv",
+         lon1 = 68.2922,
+         lat1 = 26.7724,
+         format = "csv")
+
+###########################################################################################################
+#_46
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "46-ERA5;PANJGUR;Latitude_26.9706;Longitude_64.0887;Pakistan.csv",
+         lon1 = 64.0887,
+         lat1 = 26.9706,
+         format = "csv")
+
+###########################################################################################################
+#_47
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "47-ERA5;PARACHINAR;Latitude_33.9011;Longitude_70.086;Pakistan.csv",
+         lon1 = 70.086,
+         lat1 = 33.9011,
+         format = "csv")
+
+###########################################################################################################
+#_48
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "48-ERA5;PASNI;Latitude_25.251;Longitude_63.4154;Pakistan.csv",
+         lon1 = 63.4154,
+         lat1 = 25.251,
+         format = "csv")
+
+###########################################################################################################
+#_49
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "49-ERA5;PESHAWAR;Latitude_34.0151;Longitude_71.5249;Pakistan.csv",
+         lon1 = 71.5249,
+         lat1 = 34.0151,
+         format = "csv")
+
+###########################################################################################################
+#_50
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "50-ERA5;QUETTA;Latitude_30.1798;Longitude_66.975;Pakistan.csv",
+         lon1 = 66.975,
+         lat1 = 30.1798,
+         format = "csv")
+
+###########################################################################################################
+#_51
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "51-ERA5;RAFIQUE_PAF;Latitude_30.7553;Longitude_72.2803;Pakistan.csv",
+         lon1 = 72.2803,
+         lat1 = 30.7553,
+         format = "csv")
+
+###########################################################################################################
+#_52
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "52-ERA5;RISALPUR;Latitude_34.0751;Longitude_71.9876;Pakistan.csv",
+         lon1 = 71.9876,
+         lat1 = 34.0751,
+         format = "csv")
+
+###########################################################################################################
+#_53
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "53-ERA5;ROHRI;Latitude_27.6687;Longitude_68.8943;Pakistan.csv",
+         lon1 = 68.8943,
+         lat1 = 27.6687,
+         format = "csv")
+
+###########################################################################################################
+#_54
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "54-ERA5;SAIDU_SHARIF;Latitude_34.7492;Longitude_72.3563;Pakistan.csv",
+         lon1 = 72.3563,
+         lat1 = 34.7492,
+         format = "csv")
+
+###########################################################################################################
+#_55
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "55-ERA5;SARGODHA;Latitude_32.074;Longitude_72.6861;Pakistan.csv",
+         lon1 = 72.6861,
+         lat1 = 32.074,
+         format = "csv")
+
+###########################################################################################################
+#_56
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "56-ERA5;SHARA-E-FAISAL;Latitude_24.861027;Longitude_67.069544;Pakistan.csv",
+         lon1 = 67.069544,
+         lat1 = 24.861027,
+         format = "csv")
+
+###########################################################################################################
+#_57
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "57-ERA5;SIALKOT;Latitude_32.4945;Longitude_74.5229;Pakistan.csv",
+         lon1 = 74.5229,
+         lat1 = 32.4945,
+         format = "csv")
+
+###########################################################################################################
+#_58
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "58-ERA5;SIBBI;Latitude_29.5532;Longitude_67.8808;Pakistan.csv",
+         lon1 = 67.8808,
+         lat1 = 29.5532,
+         format = "csv")
+
+###########################################################################################################
+#_59
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "59-ERA5;SKARDU_PBO;Latitude_35.3275;Longitude_75.5489;Pakistan.csv",
+         lon1 = 75.5489,
+         lat1 = 35.3275,
+         format = "csv")
+
+###########################################################################################################
+#_60
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "60-ERA5;TURBAT;Latitude_26.0081;Longitude_63.0383;Pakistan.csv",
+         lon1 = 63.0383,
+         lat1 = 26.0081,
+         format = "csv")
+
+###########################################################################################################
+#_61
+
+library(cmsafops)
+
+
+setwd("I:/Pakistan-DEM/Reanalysis-PAkistan/ERA5")
+selpoint(var="sfcWind",
+         infile = "sfcWind.ERA5.Monmean.10m.1961-2000.nc",
+         outfile = "61-ERA5;ZHOB_PBO;Latitude_31.3497;Longitude_69.4482;Pakistan.csv",
+         lon1 = 69.4482,
+         lat1 = 31.3497,
+         format = "csv")
+
+###########################################################################################################
