@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated article and software release."
+title: "Wind Resources and Techno-Economic Potential over Pakistan"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Khan
+    given-names: Muhammad Abid
+    orcid: "https://orcid.org/0000-0001-8387-1044"
+repository-code: "https://github.com/KHANMUHAMMADABID/Wind_Resources_Techno_Economic_Pakistan"
+license: MIT
+abstract: >
+  Code, derived datasets, diagnostics, and reproducibility materials for
+  evaluating wind resources, reanalysis performance, wind-speed trends,
+  spatial interpolation, turbine performance, emissions reduction, and
+  techno-economic potential over Pakistan.
