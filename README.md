@@ -156,8 +156,7 @@ Please also cite the archived software and data release:
 
 ## Contact
 
-**Muhammad Abid Khan, Ph.D.**  
-Institute of Advanced Academic Research and  
+**Muhammad Abid Khan, Ph.D.**   
 Center for Environmental Remote Sensing, Chiba University, Japan  
 Email: khan.muhammad.sa@alumni.tsukuba.ac.jp  
 ORCID: https://orcid.org/0000-0001-8387-1044
