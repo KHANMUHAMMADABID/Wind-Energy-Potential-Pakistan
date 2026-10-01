@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+statsmodels
+openpyxl
+matplotlib
+plotly
+kaleido
+Pillow
+geopandas
+shapely
+pyproj
+pykrige
+adjustText
+scikit-learn
